@@ -80,3 +80,8 @@ ul.tab li a:focus, .active {background-color: #ccc;}
 #reportimage {
 	margin: 10px auto;
 }
+
+.navbar-custom .navbar-brand {
+    margin: 0px;
+    padding: 0px;
+}
